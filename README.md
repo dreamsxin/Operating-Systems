@@ -7,8 +7,6 @@ alb153, 11068223
 Kristof Mercier
 kmm732, 11182729
 
-Design Doc:
-
 Files changed for further functionality:
 	
 	
