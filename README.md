@@ -7,7 +7,7 @@ alb153, 11068223
 Kristof Mercier
 kmm732, 11182729
 
-Files changed for further functionality:
+Files changed for implementation of a round-robin, priority based thread scheduler:
 	
 	
 	syscall.c
